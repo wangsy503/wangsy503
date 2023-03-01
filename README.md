@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
+From: 21 February 2023 - To: 28 February 2023
+
+Total Time: 10 hrs 52 mins
+
 C++        7 hrs 15 mins   ████████████████▓░░░░░░░░   66.77 %
 Markdown   3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
 Mail       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
