@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```text
+C++        7 hrs 15 mins   ████████████████▓░░░░░░░░   66.77 %
+Markdown   3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
+Mail       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Other      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+```
+
 <!--END_SECTION:waka-->
