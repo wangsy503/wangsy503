@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 March 2023 - To: 08 March 2023
+From: 02 March 2023 - To: 09 March 2023
 
-Total Time: 3 hrs 3 mins
+Total Time: 0 secs
 
-Markdown     2 hrs 57 mins   ████████████████████████░   96.48 %
-JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
