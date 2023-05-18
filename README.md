@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-Total Time: 37 mins
+Total Time: 0 secs
 
-JavaScript   24 mins         ████████████████▒░░░░░░░░   64.68 %
-JSON         12 mins         ████████▒░░░░░░░░░░░░░░░░   33.98 %
-HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
