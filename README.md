@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-Total Time: 9 mins
+Total Time: 45 mins
 
-SSH Config   9 mins          █████████████████████████   100.00 %
+YAML         34 mins         ███████████████████▒░░░░░   77.33 %
+SSH Config   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+Jinja2       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
