@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 26 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
-Total Time: 21 mins
+Total Time: 19 mins
 
-CSV      19 mins         ██████████████████████▓░░   91.24 %
-C++      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+CSV   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
