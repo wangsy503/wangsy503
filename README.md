@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2023 - To: 02 August 2023
+From: 27 July 2023 - To: 03 August 2023
 
-Total Time: 6 hrs 43 mins
+Total Time: 5 hrs 24 mins
 
-Python   3 hrs 42 mins   █████████████▓░░░░░░░░░░░   55.04 %
-Swift    1 hr 41 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
-CSV      1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python   2 hrs 51 mins   █████████████▒░░░░░░░░░░░   52.86 %
+Swift    1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+CSV      50 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
