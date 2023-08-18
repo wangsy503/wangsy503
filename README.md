@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Total Time: 29 mins
+Total Time: 1 hr 2 mins
 
-Python   25 mins         ██████████████████████░░░   87.41 %
-C++      3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Python   58 mins         ███████████████████████▓░   94.03 %
+C++      3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
