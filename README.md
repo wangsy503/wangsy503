@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2023 - To: 29 August 2023
+From: 23 August 2023 - To: 30 August 2023
 
 Total Time: 2 mins
 
-Python   0 secs          █████████░░░░░░░░░░░░░░░░   35.58 %
-YAML     0 secs          ████████░░░░░░░░░░░░░░░░░   31.57 %
-Docker   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.55 %
-C++      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-INI      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Prolog   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
