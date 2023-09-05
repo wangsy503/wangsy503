@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Total Time: 30 mins
+Total Time: 4 hrs 53 mins
 
-Python         19 mins         ████████████████▒░░░░░░░░   65.74 %
-Prolog         7 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Bash           1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-ActionScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-XML            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript     3 hrs 33 mins   ██████████████████░░░░░░░   72.49 %
+Python         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+HTML           19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+JSON           18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Prolog         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
