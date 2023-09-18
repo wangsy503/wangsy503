@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-Total Time: 9 hrs 31 mins
+Total Time: 9 hrs 44 mins
 
-C++          5 hrs 19 mins   ██████████████░░░░░░░░░░░   55.89 %
-JavaScript   2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-CSS          44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-Python       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+C++          5 hrs 31 mins   ██████████████▒░░░░░░░░░░   56.84 %
+JavaScript   2 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
+CSS          44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Python       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
