@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Total Time: 1 hr 8 mins
+Total Time: 1 hr 24 mins
 
-JavaScript   51 mins         ██████████████████▓░░░░░░   74.93 %
-JSON         17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
+JavaScript   1 hr 5 mins     ███████████████████▓░░░░░   78.08 %
+JSON         18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
 ```
 
 <!--END_SECTION:waka-->
