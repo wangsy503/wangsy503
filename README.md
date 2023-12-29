@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-Total Time: 1 min
+Total Time: 0 secs
 
-Bash         0 secs          ████████████████████▒░░░░   81.61 %
-JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
