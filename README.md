@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2024 - To: 18 February 2024
+From: 12 February 2024 - To: 19 February 2024
 
-Total Time: 9 hrs 33 mins
+Total Time: 7 hrs 25 mins
 
-Swift           4 hrs 40 mins   ████████████▒░░░░░░░░░░░░   48.94 %
-SystemVerilog   1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Python          1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 %
-Markdown        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-V               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Swift           4 hrs 40 mins   ███████████████▓░░░░░░░░░   62.99 %
+Python          1 hr 15 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.98 %
+Markdown        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+SystemVerilog   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+V               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
