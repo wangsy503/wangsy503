@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 06 April 2024 - To: 13 April 2024
 
-Total Time: 1 hr 9 mins
+Total Time: 2 hrs 26 mins
 
-C++   1 hr 9 mins     █████████████████████████   100.00 %
+SystemVerilog   2 hrs 7 mins    ██████████████████████░░░   87.46 %
+Python          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Markdown        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
