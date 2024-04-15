@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 2 hrs 26 mins
+Total Time: 7 hrs 22 mins
 
-SystemVerilog   2 hrs 7 mins    ██████████████████████░░░   87.46 %
-Python          9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Markdown        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+SystemVerilog   4 hrs 58 mins   █████████████████░░░░░░░░   67.38 %
+Python          51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
+Other           33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+JSON            18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Markdown        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->
