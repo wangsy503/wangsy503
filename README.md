@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2024 - To: 15 May 2024
+From: 09 May 2024 - To: 16 May 2024
 
-Total Time: 2 mins
+Total Time: 0 secs
 
-C++     2 mins          ██████████████████████▓░░   91.05 %
-Other   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
